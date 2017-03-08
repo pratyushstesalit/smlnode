@@ -1,0 +1,29 @@
+{
+  "name": "smlnode",
+  "version": "1.0.0",
+  "description": "Analysis of gprs data",
+  "main": "smlnode",
+  "dependencies": {
+    "moment": "^2.17.1",
+    "pg-promise": "^5.6.3",
+    "random-number": "0.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node SML_STAGING_MULTIPART_SERVER_GPRS"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pratyushstesalit/smlnode.git"
+  },
+  "keywords": [
+    "gprs",
+    "data"
+  ],
+  "author": "manoj koley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pratyushstesalit/smlnode/issues"
+  },
+  "homepage": "https://github.com/pratyushstesalit/smlnode#readme"
+}
